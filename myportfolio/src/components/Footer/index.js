@@ -84,6 +84,7 @@ const Copyright = styled.p`
   text-align: center;
 `;
 
+
 function Footer() {
   return (
     <FooterContainer>
@@ -103,6 +104,12 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
+        <div className="contactInfo" style={{ position: "relative", left: "25px" }}>
+          <div className="contactItem">
+            <span>&#9742;</span><span>  </span><span>+91 8983218727</span><br />
+            <span>&#9993;</span><span>  </span><span><a href="mailto:patilritesh1740@gmail.com" style={{ textDecoration: "none", color: "white" }}>patilritesh1740@gmail.com</a></span>
+          </div>
+        </div>
         <Copyright>
           &copy; 2024 Ritesh Patil. All rights reserved.
           Made with ❤ by Ritesh Patil.
