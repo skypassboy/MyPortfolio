@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Ritesh Patil",
   roles: [
-    "Full Stack Java Developer",
+    "Full Stack Developer",
     "Programmer",
     "Tech-Enthusiast",
     "Problem-Solver"
@@ -10,7 +10,7 @@ export const Bio = {
     " A passionate full-stack developer from India who loves to build amazing projects and work in a team. I dream to get recognized globally by something that I can do for my society.",
   github: "https://github.com/skypassboy",
   resume:
-    "https://drive.google.com/file/d/1jLmoPC8PoMfUFyOqxcEEgnD3de0kngUQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1BJn2YaWkAa9xA46PMLsbJtcPD4Xxl8Dq/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/Patil-Ritesh/",
   twitter: "https://twitter.com/patilritesh1740",
   insta: "https://www.instagram.com/skypass_boy/",
