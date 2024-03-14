@@ -284,11 +284,11 @@ export const education = [
   {
     id: 0,
     img: "https://i.postimg.cc/xTBh43LV/tree-1.jpg",
-    school: "CDAC KnowIT, ACTS",
+    school: "Centre for Development of Advanced Computing (C-DAC)",
     date: "Sept 2023 - Feb 2024",
     grade: "168",
     desc: "I have Completed my PG-DAC from KnowIT, ACTS, Pune where over the time span of 6 months I have studied and mastered Frontend and Backend Technologies like Java, CPP, C#, Spring Boot, Dot net, React Js, etc.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    degree: "Post Graduate Diploma in Advanced Computing (PG-DAC)",
   },
   {
     id: 0,
